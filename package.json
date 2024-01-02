@@ -1,0 +1,13 @@
+{
+  "name": "npv_server",
+  "version": "1.0.0",
+  "description": "A Express Server for Nepal Plate Vision Moderation.",
+  "main": "index.js",
+  "author": "Ashish Neupane",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1503.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  }
+}
